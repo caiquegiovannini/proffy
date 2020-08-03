@@ -1,5 +1,5 @@
 <h1 align="center">
-  Proffy
+  <img src="assets/logo-black.svg" />
 </h1>
 
 <p align="center">Projeto desenvolvido durante a Next Level Week #2 da Rocketseat</p>
